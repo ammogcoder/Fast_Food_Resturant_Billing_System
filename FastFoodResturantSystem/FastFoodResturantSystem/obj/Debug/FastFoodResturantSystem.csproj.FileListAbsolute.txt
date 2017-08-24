@@ -1,0 +1,9 @@
+H:\.DOT NET\Code\Windows Application\FastFoodResturantSystem\FastFoodResturantSystem\bin\Debug\FastFoodResturantSystem.exe.config
+H:\.DOT NET\Code\Windows Application\FastFoodResturantSystem\FastFoodResturantSystem\bin\Debug\FastFoodResturantSystem.exe
+H:\.DOT NET\Code\Windows Application\FastFoodResturantSystem\FastFoodResturantSystem\bin\Debug\FastFoodResturantSystem.pdb
+H:\.DOT NET\Code\Windows Application\FastFoodResturantSystem\FastFoodResturantSystem\obj\Debug\FastFoodResturantSystem.csprojResolveAssemblyReference.cache
+H:\.DOT NET\Code\Windows Application\FastFoodResturantSystem\FastFoodResturantSystem\obj\Debug\FastFoodResturantSystem.Properties.Resources.resources
+H:\.DOT NET\Code\Windows Application\FastFoodResturantSystem\FastFoodResturantSystem\obj\Debug\FastFoodResturantSystem.csproj.GenerateResource.Cache
+H:\.DOT NET\Code\Windows Application\FastFoodResturantSystem\FastFoodResturantSystem\obj\Debug\FastFoodResturantSystem.exe
+H:\.DOT NET\Code\Windows Application\FastFoodResturantSystem\FastFoodResturantSystem\obj\Debug\FastFoodResturantSystem.pdb
+H:\.DOT NET\Code\Windows Application\FastFoodResturantSystem\FastFoodResturantSystem\obj\Debug\FastFoodResturantSystem.FastFoodResturantUI.resources
